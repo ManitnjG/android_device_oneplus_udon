@@ -1,13 +1,13 @@
 #
-# Copyright (C) 2021 The evolutionOS Project
+# Copyright (C) 2021 The lineageOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_udon.mk
+    $(LOCAL_DIR)/lineage_udon.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_udon-user \
-    evolution_udon-userdebug \
-    evolution_udon-eng
+    lineage_udon-user \
+    lineage_udon-userdebug \
+    lineage_udon-eng
